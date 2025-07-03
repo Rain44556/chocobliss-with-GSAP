@@ -11,7 +11,7 @@ const imagesCSS = "absolute transition-all duration-[0.5s] ease-[cubic-bezier(0.
   return (
     <>
       <div
-        className="header relative flex items-center justify-center w-full h-screen bg-no-repeat bg-cover"
+        className="hero relative flex items-center justify-center w-full h-screen bg-no-repeat bg-cover"
         style={{ backgroundImage: `url(${bgChocolate})` }}
       >
         <h1 className="font-extrabold text-yellow-100 text-[20vw]">
