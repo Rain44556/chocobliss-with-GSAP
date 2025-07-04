@@ -1,8 +1,8 @@
 import React from "react";
 import aboutBg from '../assets/images/about-bg.png'
 
+
 const About = () => {
- 
   return (
     <>
       <div 
