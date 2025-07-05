@@ -1,5 +1,5 @@
 import React from "react";
-import bottomImg from "../assets/images/footer.jpg";
+import bottomImg from "../assets/images/choco-stand.jpg";
 
 const BottomSection = () => {
   return (

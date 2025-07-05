@@ -59,7 +59,7 @@ const useAnimation = () => {
     tl2.fromTo(
       "#chocolate",
       { width: "15%" },
-      { width: "20%", left: "48%", top: "273%" },
+      { width: "20%", left: "48%", top: "295%" },
       "drink"
     );
 
@@ -68,7 +68,7 @@ const useAnimation = () => {
       {
         width: "29%",
         left: "30%",
-        top: "221%",
+        top: "243%",
         rotate: 0,
       },
       "drink"
@@ -79,7 +79,7 @@ const useAnimation = () => {
       {
         width: "10%",
         left: "30%",
-        top: "243%",
+        top: "263%",
         rotate: 290,
       },
       "drink"
