@@ -13,6 +13,7 @@
 
 [Live Site](https://simple-chocobliss-site.netlify.app/)
 
+(./website-ss.png)
 
 ## ✨ Features
 
@@ -23,10 +24,4 @@
 - Component-based structure using React
 - Clean animation separation via a reusable GSAP hook 
 
-
-## 🛠️ Tech Stack
-
-- **Frontend:** React
-- **Styling:** Tailwind CSS
-- **Animations:** GSAP + ScrollTrigger
 
