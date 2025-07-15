@@ -13,7 +13,7 @@
 
 [Live Site](https://simple-chocobliss-site.netlify.app/)
 
-![Website Screenshot](./website-ss.png)
+![Website Screenshot](./screenshots/website-ss.png)
 
 ## ✨ Features
 
