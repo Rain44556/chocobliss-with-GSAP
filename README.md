@@ -1,21 +1,27 @@
-# 🍫🥤 ChocoBliss
+## <h1 align="center">🍫🥤 ChocoBliss</h1>
 
-**ChocoBliss** is an animated landing page designed using **React**, **Tailwind CSS**, and **GSAP**. This website showcases scroll-based animations with custom image transitions triggered by scrolling. Each element is carefully framed to enhance user interaction.
+<p align="center"><strong>ChocoBliss</strong> is an animated landing page designed using <strong>React</strong>, <strong>Tailwind CSS</strong>, and <strong>GSAP</strong>. This website showcases scroll-based animations with custom image transitions triggered by scrolling.</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
+</p>
 
 
-## 🚀 Live Preview
+## 🚀 Live Site
 
 [Live Site](https://simple-chocobliss-site.netlify.app/)
 
 
 ## ✨ Features
 
-- 🍩 Scroll-triggered animations using **GSAP ScrollTrigger**
-- 🍫 Rich chocolate-themed visuals with layered images
-- 🖼️ Hero, About, and Footer sections with animated chocolate elements
-- 🎨 Styled with **Tailwind CSS** and custom utility classes
-- ⚛️ Component-based structure using React
-- ⚙️ Clean animation separation via a reusable GSAP hook 
+- Scroll-triggered animations using **GSAP ScrollTrigger**
+- chocolate-themed visuals with layered images
+- Hero, About, and bottom sections with animated chocolate elements
+- Styled with **Tailwind CSS**
+- Component-based structure using React
+- Clean animation separation via a reusable GSAP hook 
 
 
 ## 🛠️ Tech Stack
@@ -23,5 +29,4 @@
 - **Frontend:** React
 - **Styling:** Tailwind CSS
 - **Animations:** GSAP + ScrollTrigger
-- **Bundler:** Vite (or Create React App, based on your setup)
 
